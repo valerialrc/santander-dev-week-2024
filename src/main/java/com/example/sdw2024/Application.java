@@ -1,5 +1,6 @@
 package com.example.sdw2024;
 
+import com.example.sdw2024.application.AskChampionUseCase;
 import com.example.sdw2024.application.ListChampionsUseCase;
 import com.example.sdw2024.domain.ports.ChampionsRepository;
 import org.springframework.boot.SpringApplication;
@@ -16,5 +17,10 @@ public class Application {
 	@Bean
 	public ListChampionsUseCase provideListChampionsUseCase(ChampionsRepository repository){
 		return new ListChampionsUseCase(repository);
+	}
+
+	@Bean
+	public AskChampionUseCase provideAskChampionUseCase(ChampionsRepository repository){
+		return new AskChampionUseCase(repository);
 	}
 }
