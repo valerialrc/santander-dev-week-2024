@@ -97,3 +97,16 @@ INSERT INTO champions (name, role, lore, image_url) VALUES
     ('Garen', 'Lutador', 'Um guerreiro nobre e orgulhoso, Garen faz parte da Vanguarda Destemida. Popular entre seus companheiros e respeitado o suficiente por seus inimigos, sua reputação é nada mais do que o esperado de um herdeiro da prestigiosa família Stemmaguarda, encarregada de defender Demacia e seus ideais. Vestido com uma armadura resistente à magia e empunhando uma poderosa espada, Garen está sempre pronto para confrontar magos e feiticeiros no campo de batalha, em um verdadeiro furacão de aço virtuoso.', 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg'),
     ('Teemo', 'Atirador', 'Indiferente até aos obstáculos mais perigosos e ameaçadores, Teemo vasculha o mundo com infinito entusiasmo e animação. Um yordle com uma inabalável moral que se orgulha de seguir o Código dos Escoteiros de Bandópolis, às vezes com tanta dedicação que não se toca das possíveis consequências de suas ações. Embora alguns duvidem da existência dos escoteiros, uma coisa é certa: nunca se deve duvidar das convicções de Teemo.', 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg');
 ```
+
+### Lives da Santander Dev Week 2024
+
+1. **[Iniciando o seu Primeiro Projeto Java do Zero](https://web.dio.me/lives/iniciando-o-seu-primeiro-projeto-java-do-zero-santander-dev-week-2024)** | 25/03 às 19h: 
+Fundamentos da linguagem de programação Java e configurações de projetos Spring Boot. Foco em Programação Orientada a Objetos e sua relação com Bancos de Dados SQL através do Spring Data JDBC.
+2. **[Criando uma API com os Campeões do League of Legends](https://web.dio.me/lives/criando-uma-api-com-os-campeoes-do-league-of-legends-santander-dev-week-2024)** | 26/03 às 19h:
+Criação de uma API REST, abordando design, desenvolvimento e documentação, com foco em campeões do League of Legends. Publicação da API no AWS Elastic Beanstalk.
+3. **[Potencializando sua API com Inteligência Artificial (IA)](https://web.dio.me/lives/potencializando-sua-api-com-inteligencia-artificial-ia-santander-dev-week-2024)** | 27/03 às 19h: 
+Incorporação de IA para otimizar a API, utilizando o Spring Cloud OpenFeign para integração com APIs de IA de grandes provedores, como OpenAI (GPT) e Google (Gemini).
+4. **[Conversando com os Campeões do LoL com HTML, CSS e JavaScript](https://web.dio.me/lives/conversando-com-os-campeoes-do-lol-com-html-css-e-javascript-santander-dev-week-2024)** | 28/03 às 19h:
+Construção da interface do usuário, interatividade e integração com a API explorando os fundamentos de HTML, CSS e JavaScript.
+    - Material Complementar Desta Live no [Notion do Felipão](https://helpful-jump-17b.notion.site/Santander-Dev-Week-24-Integra-o-945ebd16b5e3462a9561b6beb6d7587d?pvs=4) 📰
+
